@@ -1,0 +1,28 @@
+id,sport_id,country_id,name,active,short_code,image_path,type,sub_type,last_played_at,category,has_jerseys
+8,1,462,Premier League,True,UK PL,https://cdn.sportmonks.com/images/soccer/leagues/8/8.png,league,domestic,2025-04-27 15:30:00,1,False
+9,1,462,Championship,True,UK Champ,https://cdn.sportmonks.com/images/soccer/leagues/9/9.png,league,domestic,2025-04-28 19:00:00,2,False
+24,1,462,FA Cup,True,UK FA Cup,https://cdn.sportmonks.com/images/soccer/leagues/24/24.png,league,domestic_cup,2025-04-27 15:30:00,2,False
+27,1,462,Carabao Cup,True,,https://cdn.sportmonks.com/images/soccer/leagues/27/27.png,league,domestic_cup,2025-03-16 16:30:00,2,False
+72,1,38,Eredivisie,True,NLD E,https://cdn.sportmonks.com/images/soccer/leagues/72.png,league,domestic,2025-04-27 14:45:00,1,False
+82,1,11,Bundesliga,True,GER BI,https://cdn.sportmonks.com/images/soccer/leagues/18/82.png,league,domestic,2025-04-27 15:30:00,1,False
+181,1,143,Admiral Bundesliga,True,AUT BL,https://cdn.sportmonks.com/images/soccer/leagues/21/181.png,league,domestic,2025-04-27 15:00:00,2,False
+208,1,556,Pro League,True,BEL FDA,https://cdn.sportmonks.com/images/soccer/leagues/16/208.png,league,domestic,2025-04-27 16:30:00,1,False
+244,1,266,1. HNL,True,,https://cdn.sportmonks.com/images/soccer/leagues/20/244.png,league,domestic,2025-04-28 17:15:00,2,False
+271,1,320,Superliga,True,DNK SL,https://cdn.sportmonks.com/images/soccer/leagues/271.png,league,domestic,2025-04-28 17:00:00,2,False
+301,1,17,Ligue 1,True,FRA L1,https://cdn.sportmonks.com/images/soccer/leagues/13/301.png,league,domestic,2025-04-27 18:45:00,1,False
+384,1,251,Serie A,True,ITA SA,https://cdn.sportmonks.com/images/soccer/leagues/0/384.png,league,domestic,2025-04-28 18:45:00,1,False
+387,1,251,Serie B,True,ITA SB,https://cdn.sportmonks.com/images/soccer/leagues/3/387.png,league,domestic,2025-04-27 13:00:00,2,False
+390,1,251,Coppa Italia,True,ITA Coppa,https://cdn.sportmonks.com/images/soccer/leagues/6/390.png,league,domestic_cup,2025-04-24 19:00:00,2,False
+444,1,1578,Eliteserien,True,NOR TL,https://cdn.sportmonks.com/images/soccer/leagues/28/444.png,league,domestic,2025-04-27 15:00:00,3,False
+453,1,2,Ekstraklasa,True,POL E,https://cdn.sportmonks.com/images/soccer/leagues/5/453.png,league,domestic,2025-04-28 17:00:00,2,False
+462,1,20,Liga Portugal,True,PRT PL,https://cdn.sportmonks.com/images/soccer/leagues/14/462.png,league,domestic,2025-04-27 19:30:00,1,False
+486,1,227,Premier League,True,,https://cdn.sportmonks.com/images/soccer/leagues/6/486.png,league,domestic,2025-04-27 16:00:00,2,False
+501,1,1161,Premiership,True,SCO P,https://cdn.sportmonks.com/images/soccer/leagues/501.png,league,domestic,2025-04-26 14:00:00,2,False
+564,1,32,La Liga,True,ESP PL,https://cdn.sportmonks.com/images/soccer/leagues/20/564.png,league,domestic,2025-04-27 14:15:00,1,False
+567,1,32,La Liga 2,True,ESP S,https://cdn.sportmonks.com/images/soccer/leagues/23/567.png,league,domestic,2025-04-27 19:00:00,2,False
+570,1,32,Copa Del Rey,True,,https://cdn.sportmonks.com/images/soccer/leagues/26/570.png,league,domestic_cup,2025-04-26 20:00:00,2,False
+573,1,47,Allsvenskan,True,SWE AL,https://cdn.sportmonks.com/images/soccer/leagues/29/573.png,league,domestic,2025-04-28 17:10:00,2,False
+591,1,62,Super League,True,,https://cdn.sportmonks.com/images/soccer/leagues/15/591.png,league,domestic,2025-04-21 14:30:00,3,False
+600,1,404,Super Lig,True,TUR SL,https://cdn.sportmonks.com/images/soccer/leagues/24/600.png,league,domestic,2025-04-28 17:00:00,2,False
+609,1,86,Premier League,True,,https://cdn.sportmonks.com/images/soccer/leagues/1/609.png,league,domestic,2025-04-27 15:00:00,3,False
+1371,1,41,UEFA Europa League Play-offs,True,,https://cdn.sportmonks.com/images/soccer/leagues/27/1371.png,league,play-offs,2019-05-26 14:42:38,2,False
