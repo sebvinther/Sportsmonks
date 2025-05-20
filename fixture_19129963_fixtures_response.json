@@ -1,0 +1,54 @@
+{
+  "data": {
+    "id": 19129963,
+    "sport_id": 1,
+    "league_id": 244,
+    "season_id": 23579,
+    "stage_id": 77471132,
+    "group_id": null,
+    "aggregate_id": null,
+    "round_id": 338757,
+    "state_id": 1,
+    "venue_id": 2488,
+    "name": "\u0160ibenik vs Hajduk Split",
+    "starting_at": "2025-05-25 15:00:00",
+    "result_info": null,
+    "leg": "1/1",
+    "details": null,
+    "length": 90,
+    "placeholder": false,
+    "has_odds": true,
+    "has_premium_odds": true,
+    "starting_at_timestamp": 1748185200
+  },
+  "subscription": [
+    {
+      "meta": {
+        "trial_ends_at": "2025-04-27 17:59:05",
+        "ends_at": "2025-05-28 12:00:24",
+        "current_timestamp": 1747732955
+      },
+      "plans": [
+        {
+          "plan": "European Plan",
+          "sport": "Football",
+          "category": "Standard"
+        }
+      ],
+      "add_ons": [
+        {
+          "add_on": "50000 API Calls",
+          "sport": "Football",
+          "category": "Calls"
+        }
+      ],
+      "widgets": []
+    }
+  ],
+  "rate_limit": {
+    "resets_in_seconds": 1232,
+    "remaining": 51995,
+    "requested_entity": "Fixture"
+  },
+  "timezone": "UTC"
+}
