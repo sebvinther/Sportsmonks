@@ -5,7 +5,7 @@ the project uses the 00 sportmonks data to create and fetch almost everything fr
 
 the 000 sportmonks data tehn runs to fetch updates or missing data from when last collected to have the best dataset with most data.
 
-the 000 feature selection can be ran to both train and test diffrent models, the same appleis for 001 feature and trainging, sportmonks modelling and finally the 000 neural sportmonks.
+the 000 feature selection can be ran to both train and test diffrent models, the same applies for 001 feature and trainging, sportmonks modelling and finally the 000 neural sportmonks.
 
 
 
