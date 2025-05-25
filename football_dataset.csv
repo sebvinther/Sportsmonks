@@ -1,0 +1,51 @@
+fixture_id,home_team,away_team,score_home,score_away,total_goals,result,starting_at,home_Ball Possession %,away_Ball Possession %,home_Corners,away_Corners,home_Successful Dribbles Percentage,away_Successful Dribbles Percentage,home_None,away_None,home_Goals,away_Goals
+19135034,Crystal Palace,Wolverhampton Wanderers,4,2,6,H,2025-05-20 19:00:00,31,,0,,,54,,,,2
+19135037,Manchester City,AFC Bournemouth,3,1,4,H,2025-05-20 19:00:00,,43,,1,,57,,,,1
+19135032,Brighton & Hove Albion,Liverpool,3,2,5,H,2025-05-19 19:00:00,49,,3,,62,,1,,3,
+19145090,Córdoba,Mirandés,1,2,3,A,2025-05-19 18:30:00,68,,5,,44,,1,,1,
+19138703,Lokomotiv Moskva,CSKA Moskva,2,2,4,D,2025-05-19 17:30:00,31,,,5,,50,2,,2,
+19347760,Elfsborg,Djurgården,4,0,4,H,2025-05-19 17:10:00,,64,,2,,53,0,,,0
+19129777,Widzew Lodz,Puszcza Niepołomice,2,0,2,H,2025-05-19 17:00:00,48,,,2,,50,,50,,0
+19347764,Mjällby,Brommapojkarna,1,0,1,H,2025-05-19 17:00:00,57,,4,,20,,57,,,0
+19347765,Sirius,Norrköping,1,2,3,A,2025-05-19 17:00:00,,40,,2,,73,,2,1,
+19347766,Degerfors,IFK Göteborg,1,3,4,A,2025-05-19 17:00:00,55,,5,,,48,3,,,3
+19404967,Brøndby IF,FC Midtjylland,1,2,3,A,2025-05-19 17:00:00,,38,10,,,62,,2,,2
+19136809,Ajax,FC Twente,2,0,2,H,2025-05-18 12:30:00,53,,,6,45,,,2,2,
+19136810,AZ,Almere City,1,1,2,D,2025-05-18 12:30:00,,41,4,,62,,1,,1,
+19136811,Fortuna Sittard,FC Utrecht,0,0,0,D,2025-05-18 12:30:00,,50,,3,31,,2,,,
+19136812,Heracles Almelo,NEC Nijmegen,1,2,3,A,2025-05-18 12:30:00,52,,,5,69,,,1,1,
+19136813,NAC Breda,Willem II,1,1,2,D,2025-05-18 12:30:00,,44,,4,54,,,4,,1
+19136814,PEC Zwolle,FC Groningen,2,0,2,H,2025-05-18 12:30:00,60,,4,,44,,,1,2,
+19136815,RKC Waalwijk,Go Ahead Eagles,5,3,8,H,2025-05-18 12:30:00,,61,,11,,40,1,,,3
+19136816,SC Heerenveen,Feyenoord,2,0,2,H,2025-05-18 12:30:00,43,,,3,30,,,2,,0
+19136817,Sparta Rotterdam,PSV,1,3,4,A,2025-05-18 12:30:00,31,,,9,65,,,9,1,
+19148958,Inhulets,Shakhtar Donetsk,1,4,5,A,2025-05-18 12:30:00,37,,,2,,,,2,,4
+19149077,Oleksandria,Veres,3,1,4,H,2025-05-18 12:30:00,,52,,5,67,,67,,3,
+19149079,Livyi Bereh,Rukh Vynnyky,1,0,1,H,2025-05-18 12:30:00,37,,,8,,50,,50,,0
+19149080,Chornomorets,Dynamo Kyiv,1,1,2,D,2025-05-18 12:30:00,26,,,7,,94,,94,1,
+19149083,LNZ Cherkasy,Vorskla,0,0,0,D,2025-05-18 12:30:00,,44,,2,75,,75,,,
+19416777,Young Boys,Basel,6,2,8,H,2025-05-18 12:15:00,,58,,7,27,,27,,,2
+19145096,Racing Ferrol,Cádiz,1,0,1,H,2025-05-18 12:00:00,,55,,6,,27,0,,1,
+19347759,AIK,Hammarby,0,0,0,D,2025-05-18 12:00:00,41,,,4,59,,59,,,
+19347761,Häcken,Värnamo,2,0,2,H,2025-05-18 12:00:00,61,,,4,50,,2,,2,
+19404992,Aalborg BK,Silkeborg IF,2,3,5,A,2025-05-18 12:00:00,37,,1,,,53,2,,2,
+19404993,Viborg FF,Vejle Boldklub,0,1,1,A,2025-05-18 12:00:00,,31,14,,,40,0,,0,
+19402386,Anderlecht,Club Brugge,1,3,4,A,2025-05-18 11:30:00,,48,,4,38,,2,,,3
+19135035,Everton,Southampton,2,0,2,H,2025-05-18 11:00:00,,50,4,,,48,,1,2,
+19138704,Akhmat Grozny,Makhachkala,1,1,2,D,2025-05-18 11:00:00,,48,8,,,36,1,,,1
+19138701,Krylya Sovetov,Spartak Moskva,0,2,2,A,2025-05-18 10:30:00,,71,,10,,56,1,,0,
+19129773,Motor Lublin,Zagłębie Lubin,1,0,1,H,2025-05-18 10:15:00,46,,,7,30,,2,,1,
+19376850,Catanzaro,Cesena,1,0,1,H,2025-05-17 15:15:00,,56,2,,0,,,3,,0
+19129959,Varaždin,Osijek,2,1,3,H,2025-05-17 15:00:00,50,,,2,67,,1,,2,
+19403336,Rheindorf Altach,Austria Klagenfurt,0,0,0,D,2025-05-17 15:00:00,60,,4,,39,,4,,,
+19403337,Grazer AK,LASK Linz,1,0,1,H,2025-05-17 15:00:00,35,,4,,33,,1,,1,
+19403338,Hartberg,WSG Tirol,3,2,5,H,2025-05-17 15:00:00,50,,6,,,57,,57,,2
+19145091,Deportivo La Coruña,Granada,2,3,5,A,2025-05-17 14:15:00,,54,3,,8,,,0,,3
+19145095,SD Eibar,Burgos,1,0,1,H,2025-05-17 14:15:00,49,,,1,,43,,1,1,
+19138707,Khimki,Rubin Kazan,3,2,5,H,2025-05-17 13:30:00,,44,,2,,56,,2,,2
+19154842,RB Leipzig,VfB Stuttgart,2,3,5,A,2025-05-17 13:30:00,,51,5,,,54,,0,,3
+19154843,Borussia Dortmund,Holstein Kiel,3,0,3,H,2025-05-17 13:30:00,74,,,1,,25,,25,3,
+19154844,TSG Hoffenheim,FC Bayern München,0,4,4,A,2025-05-17 13:30:00,33,,,4,,57,,3,0,
+19154845,Heidenheim,Werder Bremen,1,4,5,A,2025-05-17 13:30:00,,49,,4,56,,1,,,4
+19154846,SC Freiburg,Eintracht Frankfurt,1,3,4,A,2025-05-17 13:30:00,,40,4,,38,,2,,1,
+19154847,FC Augsburg,FC Union Berlin,1,2,3,A,2025-05-17 13:30:00,,37,,0,,33,,2,,2
